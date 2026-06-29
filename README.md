@@ -2,7 +2,6 @@
 
 # 📊 IBM Data Analytics Professional Certificate Portfolio
 
-**Name:** Debo Parker
 **Program:** IBM Data Analytics Professional Certificate — Coursera
 **Status:** In Progress
 
