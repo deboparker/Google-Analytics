@@ -1,4 +1,4 @@
-![Banner](C:\Users\debor\Downloads\data banner.png)
+![Banner](data banner.png)
 
 # 📊 IBM Data Analytics Professional Certificate Portfolio
 
