@@ -1,4 +1,4 @@
-![Banner](data banner.png)
+![Banner](data_banner.png)
 
 # 📊 IBM Data Analytics Professional Certificate Portfolio
 
